@@ -16,7 +16,7 @@ class RegisterPage extends StatelessWidget {
           children: [
             Center(
               child: Text(
-                'Welcome to the Register Page',
+                'Hallo',
                 style: TextStyle(
                   fontSize: 20,
                   color: Colors.blue,
